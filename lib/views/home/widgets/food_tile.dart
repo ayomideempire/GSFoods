@@ -5,7 +5,6 @@ import 'package:flutter_vector_icons/flutter_vector_icons.dart';
 import 'package:newapp/common/app_style.dart';
 import 'package:newapp/common/reusable_text.dart';
 import 'package:newapp/constants/constants.dart';
-import 'package:newapp/constants/uidata.dart';
 
 class FoodTile extends StatelessWidget {
   FoodTile({super.key, required this.food});

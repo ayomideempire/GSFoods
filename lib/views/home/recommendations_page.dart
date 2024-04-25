@@ -37,6 +37,5 @@ class RecommendationsPage extends StatelessWidget {
         ),
       ),
     );
-    ;
   }
 }
