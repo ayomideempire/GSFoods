@@ -79,7 +79,10 @@ flutter:
 
  
   assets:
-    - assets/
+    - assets/images/
+    - assets/anime/
+    - assets/foodly/
+    - assets/icons/
     - assets/images/boy.jpg
 
  
